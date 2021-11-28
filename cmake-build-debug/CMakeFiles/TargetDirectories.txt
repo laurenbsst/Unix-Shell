@@ -1,0 +1,3 @@
+/cygdrive/c/Users/laure/Documents/Architectures and OS/OS Coursework 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/laure/Documents/Architectures and OS/OS Coursework 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/laure/Documents/Architectures and OS/OS Coursework 1/cmake-build-debug/CMakeFiles/OS_Coursework_1.dir
